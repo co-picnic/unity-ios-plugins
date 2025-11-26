@@ -405,13 +405,4 @@ in the Software without restriction...
 
 ---
 
-## 📧 Support
-
-For issues, questions, or contributions:
-
-- **CoPicnic Plugins**: dev@copicnic.com
-- **Ursula Plugins**: dev@example.com
-
----
-
 ![Unity iOS Plugins Footer](./docs/imgs/footer.png)
