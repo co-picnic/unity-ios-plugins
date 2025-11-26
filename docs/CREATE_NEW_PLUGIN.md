@@ -494,46 +494,6 @@ public static string GetData()
 
 ---
 
-## Quick Reference
-
-| Component        | Language      | Purpose                    |
-| ---------------- | ------------- | -------------------------- |
-| `*.swift`        | Swift         | Native iOS implementation  |
-| `*.mm`           | Objective-C++ | Bridge between Swift and C |
-| `*.cs` (Runtime) | C#            | Unity-facing API           |
-| `*.cs` (Editor)  | C#            | Xcode build automation     |
-| `*.modulemap`    | Text          | Module symbol resolution   |
-| `*.asmdef`       | JSON          | Unity assembly definition  |
-
----
-
-## Next Steps
-
-1. **Copy** `unity-ios-library-hello-world` to a new folder
-2. **Rename** files and classes to match your feature
-3. **Implement** Swift logic for your use case
-4. **Expose** methods via bridge
-5. **Wrap** with C# API
-6. **Test** in Unity Editor (stubs)
-7. **Build** to iOS and test on device
-8. **Document** usage in README.md
-
-**Estimated time**: 30 mins for basic plugin, 2-3 hours for complex features
-
----
-
-## Examples in This Repo
-
-| Plugin          | Complexity      | Learn About                            |
-| --------------- | --------------- | -------------------------------------- |
-| `hello-world`   | ⭐ Basic        | Foundation pattern, messaging          |
-| `camera`        | ⭐⭐ Medium     | Permissions, UIKit, file handling      |
-| `audio-session` | ⭐⭐ Medium     | Observers, notifications, enums        |
-| `custom-view`   | ⭐⭐⭐ Advanced | SwiftUI, keyboard handling, overlays   |
-| `speech`        | ⭐⭐⭐ Advanced | Permissions, streaming data, languages |
-
----
-
 **Happy plugin building!** 🚀
 
 For questions or improvements to this guide, open an issue or PR.
