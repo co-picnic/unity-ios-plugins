@@ -1,0 +1,22 @@
+{
+	"name": "com.ursula.unity-ios-lib-custom-view",
+	"version": "1.0.0",
+	"displayName": "Unity iOS Custom View Plugin",
+	"description": "Overlay transparent SwiftUI views on top of Unity for native text input and buttons.",
+	"unity": "2019.4",
+	"author": {
+		"name": "Ursula",
+		"email": "dev@example.com"
+	},
+	"keywords": [
+		"ios",
+		"swift",
+		"plugin",
+		"unity",
+		"swiftui",
+		"ui"
+	]
+}
+
+
+

@@ -1,0 +1,19 @@
+{
+	"name": "Ursula.IOS.CustomView",
+	"rootNamespace": "Ursula.IOS.CustomView",
+	"references": [],
+	"includePlatforms": [
+		"Editor",
+		"iOS"
+	],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}
+
+

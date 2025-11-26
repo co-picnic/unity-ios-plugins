@@ -1,0 +1,19 @@
+{
+	"name": "CoPicnic.IOS.Camera",
+	"references": [],
+	"optionalUnityReferences": [],
+	"includePlatforms": [
+		"iOS",
+		"Editor"
+	],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}
+
+

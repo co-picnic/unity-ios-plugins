@@ -1,0 +1,23 @@
+{
+  "name": "com.copicnic.unity-ios-lib-speech",
+  "version": "1.0.0",
+  "displayName": "CoPicnic iOS Speech Recognition Plugin",
+  "description": "iOS native speech recognition plugin for Unity using Apple's Speech framework (Swift + ObjC++ bridge). Provides on-device speech-to-text with real-time partial results and multi-language support.",
+  "unity": "2019.4",
+  "author": {
+    "name": "CoPicnic",
+    "email": "dev@copicnic.com"
+  },
+  "keywords": [
+    "ios",
+    "swift",
+    "plugin",
+    "unity",
+    "speech",
+    "recognition",
+    "sfspeech",
+    "stt"
+  ]
+}
+
+

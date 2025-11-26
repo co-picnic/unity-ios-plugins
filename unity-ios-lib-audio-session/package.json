@@ -1,0 +1,22 @@
+{
+  "name": "com.copicnic.unity-ios-lib-audio-session",
+  "version": "1.0.0",
+  "displayName": "CoPicnic iOS Audio Session Plugin",
+  "description": "iOS native audio session management plugin for Unity (Swift + ObjC++ bridge). Provides centralized AVAudioSession configuration, route detection, volume monitoring, and interruption handling.",
+  "unity": "2019.4",
+  "author": {
+    "name": "CoPicnic",
+    "email": "dev@copicnic.com"
+  },
+  "keywords": [
+    "ios",
+    "swift",
+    "plugin",
+    "unity",
+    "audio",
+    "session",
+    "avaudiosession"
+  ]
+}
+
+
